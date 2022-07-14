@@ -1,0 +1,63 @@
+name: Bug Report
+description: File a bug report
+title: "Bug: "
+labels: ["bug", "triage"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Also tell us, what did you expect to happen?
+      placeholder: Tell us what you see!
+      value: "A bug happened!"
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: What version of our software are you running?
+    validations:
+      required: true
+
+  - type: dropdown
+    id: os
+    attributes:
+      label: OS
+      description: What is your OS?
+      multiple: true
+      options:
+        - Linux
+        - MacOS
+        - Windows
+    validations:
+      required: true
+
+  - type: textarea
+    id: snippet
+    attributes:
+      label: Snippet to repeat the bug
+      description: Put some snippet of code to help us to repeat the error
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs
+      description: If you have some errors or any relevant information in logs, put them here
+      render: Shell
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](/reduct-storage/.github/blob/main/CODE_OF_CONDUCT.md)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
