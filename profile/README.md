@@ -1,4 +1,4 @@
-# Reduct Storage
+## Reduct Storage
 
 Reduct Storage aims to solve the problem of storing data when you need to write intensively but read it occasionally and randomly via a time interval. The storage engine has a simple HTTP API and stores data as a history of blobs.
 
@@ -7,11 +7,11 @@ Reduct Storage aims to solve the problem of storing data when you need to write 
 * [Docs](https://docs.reduct-storage.dev)
 * [Blog](https://dev.to/reduct-storage)
 
-## Tools
+### Tools
 
 * [Web Console](https://github.com/reduct-storage/web-console)
 
-##  Client SDKs
+###  Client SDKs
 
 * [Python Client SDK](https://github.com/reduct-storage/reduct-py)
 * [JavaScript Client SDK](https://github.com/reduct-storage/reduct-js)
