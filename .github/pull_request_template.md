@@ -1,4 +1,4 @@
-**Closes** #
+Closes #
 
 ### Please check if the PR fulfills these requirements
 
