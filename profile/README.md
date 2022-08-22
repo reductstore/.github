@@ -6,3 +6,4 @@ Reduct Storage is a time series database for big data. It has no limitation on t
 * [Code](https://github.com/reduct-storage/reduct-storage)
 * [Docs](https://docs.reduct-storage.dev)
 * [Blog](https://dev.to/reduct-storage)
+* [Discord](https://discord.gg/NQbPeGgzdR)
