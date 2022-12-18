@@ -5,6 +5,5 @@ A time series database for storing and managing large amount of blob data. It ha
 * [Hompage](https://reduct.store)
 * [Code](https://github.com/reductstore/reductstore)
 * [Docs](https://docs.reduct.store)
-* [Blog](https://dev.to/reduct-storage)
+* [Dev.to](https://dev.to/ReductStore)
 * [Discord](https://discord.gg/NQbPeGgzdR)
-* [ProductHunt](https://www.producthunt.com/posts/reduct-storage)
