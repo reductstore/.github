@@ -1,4 +1,4 @@
-## Reduct Storage
+## ReductStore
 
 A time series database for storing and managing large amount of blob data. It has no limitation on the size of stored objects. It provides a simple HTTP API and is optimized for random data reads via a timestamp or larger chunks via time intervals.
 
