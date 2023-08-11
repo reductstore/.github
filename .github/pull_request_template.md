@@ -4,7 +4,7 @@ Closes #
 
 - [ ] Tests for the changes have been added (for bug fixes / features)
 - [ ] Docs have been added / updated (for bug fixes / features)
-- [ ] CHANGELOG.md have been updated (for bug fixes / features / docs)
+- [ ] CHANGELOG.md has been updated (for bug fixes / features / docs)
 
 
 ### What kind of change does this PR introduce?
