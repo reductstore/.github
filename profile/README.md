@@ -1,9 +1,3 @@
 ## ReductStore
 
-A time series database for storing and managing large amount of blob data. It has no limitation on the size of stored objects. It provides a simple HTTP API and is optimized for random data reads via a timestamp or larger chunks via time intervals.
-
-* [Hompage](https://reduct.store)
-* [Code](https://github.com/reductstore/reductstore)
-* [Docs](https://docs.reduct.store)
-* [Dev.to](https://dev.to/ReductStore)
-* [Discord](https://discord.gg/NQbPeGgzdR)
+ReductStore is a time series database that is specifically designed for storing and managing large amounts of blob data. It boasts high performance for both writing and real-time querying, with the added benefit of batching data. This makes it an ideal solution for edge computing, computer vision, and IoT applications where network latency is a concern. For more information, please visit https://www.reduct.store/.
