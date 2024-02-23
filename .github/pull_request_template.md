@@ -12,9 +12,9 @@ Closes #
 
 ### What was changed?
 
-(Discribe the changes)
+(Describe the changes)
 
-### Releated issues
+### Related issues
 
 (Add links to releated issues)
 
