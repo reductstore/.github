@@ -16,7 +16,7 @@ Closes #
 
 ### Related issues
 
-(Add links to releated issues)
+(Add links to related issues)
 
 ### Does this PR introduce a breaking change?
 
