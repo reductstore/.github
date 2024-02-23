@@ -6,19 +6,17 @@ Closes #
 - [ ] Docs have been added / updated (for bug fixes / features)
 - [ ] CHANGELOG.md has been updated (for bug fixes / features / docs)
 
-
 ### What kind of change does this PR introduce?
 
 (Bug fix, feature, docs update, ...)
 
-### What is the current behavior?
+### What was changed?
 
-(You can also link to an open issue here)
+(Discribe the changes)
 
-### What is the new behavior?
+### Releated issues
 
-(if this is a feature change)
-
+(Add links to releated issues)
 
 ### Does this PR introduce a breaking change?
 
