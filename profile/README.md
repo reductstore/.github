@@ -1,6 +1,6 @@
 ## High Performance Storage and Streaming Solution for Data Acquisition Systems
 
-An ELT-based solution for robotics and industrial IoT (IIoT) applications designed for speed, simplicity, and reliability. 
+An ELT-based solution for Robotics and Industrial IoT (IIoT) applications designed for speed, simplicity, and reliability. 
 
 📦 Capture data in its raw form
 
